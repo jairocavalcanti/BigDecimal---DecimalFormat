@@ -23,6 +23,5 @@ public class Principal {
     System.out.println("10% dos tanderions:" + novoformatodovalor);
 
     scanner.close();
-}
-    
+    }
 }
